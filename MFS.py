@@ -2,9 +2,13 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb 23 21:58:04 2018
+Code author: Xin Xing
 
-@author: XIN
+Implemented according to the following paper: 
+Cheng, Q., Zhou, H., and Cheng, J. (2011). 
+The Fisher-Markov selector: Fast selecting maximally separable feature subset 
+for multi-class classification with applications to high-dimensional data. 
+IEEE Trans. Pattern Analysis and Machine Intelligence, 33(6), 1217-1233.
 """
 
 import matplotlib.pyplot as plt
